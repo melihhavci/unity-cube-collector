@@ -16,7 +16,7 @@ Bu mini Unity projesi, oyuncunun farklı renkteki küpleri toplayarak skor elde 
 - Trigger Collider sistemi
 
 ## Görseller
-![Oyun içi ekran görüntüsü](Assets/Screenshots/gameplay.png)
+![Oyun içi ekran görüntüsü](Assets/Screenshots/inGame.png)
 
 ## Kurulum
 1. Bu projeyi klonlayın veya indirin
