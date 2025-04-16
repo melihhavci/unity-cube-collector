@@ -1,4 +1,4 @@
-# Küp Toplama Oyunu 🎮
+# Küp Toplama Oyunu 
 
 Bu mini Unity projesi, oyuncunun farklı renkteki küpleri toplayarak skor elde ettiği basit bir tek oyunculu oyundur.
 
