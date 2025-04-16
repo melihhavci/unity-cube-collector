@@ -1,6 +1,6 @@
 # Küp Toplama Oyunu 
 
-Bu mini Unity projesi, oyuncunun farklı renkteki küpleri toplayarak skor elde ettiği basit bir tek oyunculu oyundur.
+Bu Unity mini oyun projesinde, oyuncu farklı renkteki küpleri toplayarak puan kazanır. Temel karakter kontrolü, obje etkileşimi, skor sistemi ve UI yönetimi gibi özellikleri içerir.
 
 ## Özellikler
 - Starter Assets ile karakter kontrolü
